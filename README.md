@@ -16,7 +16,7 @@
 ## Melhorias:
 [Link das Melhorias Propostas para o Site | Notion](https://www.notion.so/Melhorias-c7c466a6ed6b44bd9d94c9f40ce08453?pvs=4)
 
-##Versão de Desktop e Mobile utilizda:
+## Versão de Desktop e Mobile utilizda:
 
 Plataforma   | Device | Versão | 
 --------- | ------ | ---------
