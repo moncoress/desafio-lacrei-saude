@@ -1,0 +1,5 @@
+﻿Bugs,Gravidade,Caso de Teste,Dispositivos,Fluxo de Teste,Página do Site
+Bug001 - Link “Atendimento Online” redireciona à página de login e desconecta automaticamente o usuário,Alta,"CT110, CT115, CT120","Android, Desktop, IOS",Contatar Profissional,Busca | Lacrei
+Bug002 - Redirecionamento Incorreto ao Clicar em 'Lacrei Pessoas Profissionais’,Baixa,CT169,Desktop,Elementos Clicáveis,Login | Lacrei
+Bug003 - Aplicação Aceita Senhas Extremamente Longas,Média,"CT013, CT32, CT51","Android, Desktop, IOS",Cadastro da Pessoa Usuária,Cadastro | Lacrei
+Bug004 - O sistema não atualiza o número de telefone,Média,"CT125, CT32, CT39","Android, Desktop, IOS",Editar Perfil da Pessoa Usuária,Informações Pessoais | Lacrei
