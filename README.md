@@ -1,8 +1,6 @@
 # Desafio QA - Lacrei Saúde
 
-####Feito por: Marina Monçores
-
-##Tarefas:
+## Tarefas:
 
 [Desafio Quality Assurance](https://lacrei.notion.site/Desafio-Quality-Assurance-de16f470007841aba5c564e5dd543943)
 
